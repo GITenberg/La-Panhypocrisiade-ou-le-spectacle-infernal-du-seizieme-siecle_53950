@@ -1,0 +1,32 @@
+_repo: La-Panhypocrisiade-ou-le-spectacle-infernal-du-seizieme-siecle_53950
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lemercier, Népomucène-Louis
+    aliases:
+    - Lemercier, Louis-Jean-Népomucène
+    - Lemercier, N.-L. (Népomucène-Louis)
+    - Lemercier, L.-Népomucène (Louis-Népomucène)
+    - Lemercier, Nepomucene-Louis
+    - Lemercier, Jean-Louis-Népomucène
+    birthdate: 1771
+    deathdate: 1840
+    gutenberg_agent_id: '47636'
+    url: http://www.gutenberg.org/2009/agents/47636
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2017-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53950'
+  lccn: tmp96031356
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- 19th century'
+- GITenberg
+title: La Panhypocrisiade, ou le spectacle infernal du seizième siècle
+url: http://www.gutenberg.org/ebooks/53950
