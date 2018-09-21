@@ -1,5 +1,8 @@
 _repo: La-Panhypocrisiade-ou-le-spectacle-infernal-du-seizieme-siecle_53950
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lemercier, Népomucène-Louis
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '47636'
     url: http://www.gutenberg.org/2009/agents/47636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53950#La-Panhypocrisiade-ou-le-spectacle-infernal-du-seizieme-siecle
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2017-01-12'
 gutenberg_type: Text
